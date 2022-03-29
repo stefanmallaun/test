@@ -1,5 +1,5 @@
 public class test {
 
-    private int ehrenbratan;
+    private int lebengenommen;
 
 }

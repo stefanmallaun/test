@@ -1,0 +1,9 @@
+public class test {
+
+<<<<<<< HEAD
+    private int ehregenommen;
+=======
+    private int lebengenommen;
+>>>>>>> 74d7b5f9bdb007931f98748fb32d60b4cef4d8e5
+
+}
